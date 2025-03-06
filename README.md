@@ -47,8 +47,8 @@ python main.py --num-boids 100 --screen-width 1024 --screen-height 768
 ### Built With
 
 The project utilizes Python and leverages the Pygame library for graphical output, making it easy to run and accessible on any system with Python support.
-![Python Badge](https://img.shields.io/badge/python-v3.11.9-blue.svg)
-![Pygame Badge](https://img.shields.io/badge/pygame-v2.6.0-blue.svg)
+- ![Python Badge](https://img.shields.io/badge/python-v3.11.9-blue.svg)
+- ![Pygame Badge](https://img.shields.io/badge/pygame-v2.6.0-blue.svg)
 
 ## Project Structure
 ```
