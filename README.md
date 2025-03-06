@@ -69,3 +69,10 @@ In a naive approach, each Boid would check all other Boids to determine neighbor
 Using a **KD-Tree**, we efficiently structure Boid positions in a way that allows nearest-neighbor searches in **O(log n)** time. This optimization significantly improves performance, making real-time flocking simulations scalable.
 
 The KD-Tree implementation is found in `boidmanager.py`, where it is used to efficiently query neighbors within a given radius.
+
+## Contact
+
+For questions or collaboration, please reach out:
+
+- **Email**: [j.dpadron@alumnos.upm.es](mailto:j.dpadron@alumnos.upm.es)
+- **Twitter**: [@mixnikon](https://twitter.com/mixnikon)
