@@ -1,7 +1,10 @@
 # Boid Flocking Simulation
 
-![Boid Simulation](https://miro.medium.com/v2/resize:fit:720/format:webp/1*c9VTUIXfsfWXgsaIfbGV8Q.png)
-*A visualization of the Boid flocking simulation.*
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*c9VTUIXfsfWXgsaIfbGV8Q.png" alt="Boid Simulation">
+</p>
+
+<p align="center"><em>A visualization of the Boid flocking simulation.</em></p>
 
 ## Overview
 This project is a **Boid flocking simulation** that models the collective movement of autonomous agents (Boids) in a 2D environment. The simulation implements **separation**, **alignment**, and **cohesion** behaviors to mimic real-world flocking, using **KD-Trees** for optimized nearest-neighbor searches.
@@ -47,3 +50,7 @@ In a naive approach, each Boid would check all other Boids to determine neighbor
 Using a **KD-Tree**, we efficiently structure Boid positions in a way that allows nearest-neighbor searches in **O(log n)** time. This optimization significantly improves performance, making real-time flocking simulations scalable.
 
 The KD-Tree implementation is found in `boidmanager.py`, where it is used to efficiently query neighbors within a given radius.
+
+---
+
+Enjoy experimenting with this flocking simulation! 🚀
