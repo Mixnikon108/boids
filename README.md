@@ -1,6 +1,6 @@
 # Boid Flocking Simulation
 
-![Boid Simulation]([simulation_screenshot.png](https://miro.medium.com/v2/resize:fit:720/format:webp/1*c9VTUIXfsfWXgsaIfbGV8Q.png))
+![Boid Simulation](https://miro.medium.com/v2/resize:fit:720/format:webp/1*c9VTUIXfsfWXgsaIfbGV8Q.png)
 *A visualization of the Boid flocking simulation.*
 
 ## Overview
